@@ -1,5 +1,4 @@
-Feito em dupla por:
 
-André Martinez ................ 23.00080-5
+Gustavo Westermann 23.01406-7
 
-Pedro Gabriel Máximo .......... 23.00771-0
+Matheus Yukio 23.01330-3
